@@ -1,0 +1,5 @@
+#!/bin/bash
+
+'.' -f2- | rev | LC_ALL=C sort -f
+
+
